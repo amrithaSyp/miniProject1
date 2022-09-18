@@ -1,0 +1,51 @@
+body {
+    background-color:rgb(190, 235, 190);
+  }
+  h1 {
+    color:rgb(24, 80, 0);
+
+    text-align: center;
+
+  }
+  #h1pic {
+    border: 5px solid rgb(24, 80, 0);
+  }
+
+  #bottom{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+  }
+
+  #body-text {
+      display: flex;
+      flex-direction: column;
+      align-content: center;
+      padding-left: 50px;
+      font-size: 40px;
+      color:rgb(24, 80, 0);
+      font-family:  "Helvetica", sans-serif;
+
+    }
+
+    #buttons {
+        padding-left:150px ;
+        display: flex;
+        justify-content: space-between;
+       
+
+    }
+    .button {
+        background-color: rgb(160, 194, 160);
+    }
+    #buttons {
+        
+        width: 500px;
+        height: 50px;
+    }
+
+    .header-title {
+       display: flex;
+       justify-content: center; 
+    }
+   
