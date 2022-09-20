@@ -1,12 +1,7 @@
 body {
     background-color:rgb(190, 235, 190);
   }
-  h1 {
-    color:rgb(24, 80, 0);
-
-    text-align: center;
-
-  }
+ 
   #h1pic {
     border: 5px solid rgb(24, 80, 0);
   }
